@@ -1,4 +1,9 @@
 # DestinyTrackDevelopment
+
+>important
+We have moved the DestinyTrack update repository. 
+Please go to:[https://github.com/DestinyTrack-I-WayToGod/DestinyTrack_Beta](url)
+
 Development
 运轨I:登神之路BETA版适配详情：
 Windows（PC）配置：
